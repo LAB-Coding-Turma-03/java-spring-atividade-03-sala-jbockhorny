@@ -25,7 +25,7 @@ public class CondicionalController {
 		 * 
 		 */
 
-		String returnIdade = "Coloque sua idade";
+		String returnIdade = "Coloque sua idade!";
 
 		if (idade == 18) {
 			returnIdade = "Você tem " + idade + " anos.";
